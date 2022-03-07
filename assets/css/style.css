@@ -1,0 +1,121 @@
+    body {
+        padding: 0%;
+        margin: 0%;
+    }
+    
+    header.row {
+        text-align: center;
+        background-image: url(../img/img/header_bg.jpg);
+        font-family: Open Sans, Arial, sans-serif;
+        padding: 2%;
+        margin: 0%;
+    }
+    
+    li {
+        display: inline-flex;
+        color: #FFFFFF;
+        padding: 0% 5%;
+    }
+    
+    a,
+    h6#green,
+    h5 {
+        color: #3d9f96;
+    }
+    
+    hr#white,
+    h2 {
+        color: #FFFFFF;
+    }
+    
+    section {
+        text-align: center;
+        background-color: #27242b;
+        padding: 0% 20%;
+        color: #FFFFFF;
+        font-size: larger;
+        margin: 0%;
+    }
+    
+    button {
+        background-color: #3d9f96;
+        color: #FFFFFF;
+        font-family: Open Sans, Arial, sans-serif;
+        border-radius: 15rem;
+        margin: 5%;
+        padding: 1% 5%;
+    }
+    
+    img#ordi {
+        padding: 0%;
+    }
+    
+    div.row1 {
+        text-align: center;
+        background-color: #f7f7f7;
+        padding: 2% 5%;
+    }
+    
+    section.part2 {
+        background-color: #FFFFFF;
+        padding: 2%;
+        font-family: Open Sans, Arial, sans-serif;
+        text-align: center;
+        color: #27242b;
+    }
+    
+    h1 {
+        font-size: 180%;
+    }
+    
+    div.row2 {
+        padding: 5%;
+    }
+    
+    section.part3 {
+        text-align: center;
+        font-family: Helvetica, Arial, sans-serif, 'Raleway';
+        background-color: #27242b;
+        padding: 2% 10%;
+    }
+    
+    section.part4 {
+        text-align: left;
+        padding: 10%;
+        background-color: #f7f7f7;
+        margin: 0%;
+        color: #27242b;
+        font-family: Helvetica, Arial, sans-serif, 'Raleway';
+        ;
+    }
+    
+    section.part5 {
+        background-color: #FFFFFF;
+        color: #27242b;
+        padding: 5%;
+        margin: 0%;
+        font-family: Raleway, Arial, sans-serif;
+    }
+    
+    section.part6 {
+        background-color: #f7f7f7;
+        padding: 2%;
+        color: #27242b;
+        font-family: Raleway, Arial, sans-serif;
+    }
+    
+    div#big {
+        column-width: 40%;
+    }
+    
+    div#little {
+        column-width: 10%;
+    }
+    
+    div#medium {
+        column-width: 30%;
+    }
+    
+    footer {
+        padding: 2% 5%;
+    }
